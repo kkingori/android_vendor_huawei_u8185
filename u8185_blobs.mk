@@ -24,4 +24,5 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8185/props/system/lib/hw/gralloc.msm7k.so:system/lib/hw/gralloc.msm7k.so \
     vendor/huawei/u8185/props/system/lib/libdsm.so:system/lib/libdsm.so \
     vendor/huawei/u8185/props/system/lib/hw/copybit.msm7k.so:system/lib/hw/copybit.msm7k.so \
+    vendor/huawei/u8185/props/system/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
 
