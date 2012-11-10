@@ -17,6 +17,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/huawei/u8185/props/system/bin/rild:system/bin/rild \
+    vendor/huawei/u8185/props/system/bin/netmgrd:system/bin/netmgrd \
     vendor/huawei/u8185/props/system/bin/qmuxd:system/bin/qmuxd \
     vendor/huawei/u8185/props/system/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
     vendor/huawei/u8185/props/system/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
