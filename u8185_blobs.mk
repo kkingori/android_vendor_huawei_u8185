@@ -30,10 +30,12 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8185/props/system/lib/libril.so:system/lib/libril.so \
     vendor/huawei/u8185/props/system/lib/libhwrpc.so:system/lib/libhwrpc.so \
     vendor/huawei/u8185/props/system/lib/libauth.so:system/lib/libauth.so \
+    vendor/huawei/u8185/props/system/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/huawei/u8185/props/system/lib/libdsm.so:system/lib/libdsm.so \
     vendor/huawei/u8185/props/system/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/huawei/u8185/props/system/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
     vendor/huawei/u8185/props/system/lib/libqueue.so:system/lib/libqueue.so \
+    vendor/huawei/u8185/props/system/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/huawei/u8185/props/system/lib/libqmiservices.so:system/lib/libqmiservices.so \
     vendor/huawei/u8185/props/system/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/huawei/u8185/props/system/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
