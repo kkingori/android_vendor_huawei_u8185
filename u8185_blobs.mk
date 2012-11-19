@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8185/props/system/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
     vendor/huawei/u8185/props/system/lib/libshareril.so:system/lib/libshareril.so \
     vendor/huawei/u8185/props/system/lib/libOpenVG.so:system/lib/libOpenVG.so \
+    vendor/huawei/u8185/props/system/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/huawei/u8185/props/system/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/huawei/u8185/props/system/lib/libwmsts.so:system/lib/libwmsts.so \
     vendor/huawei/u8185/props/system/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
