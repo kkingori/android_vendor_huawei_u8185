@@ -55,6 +55,11 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8185/props/system/lib/liboncrpc.so:system/lib/liboncrpc.so \
     vendor/huawei/u8185/props/system/lib/libgsdi_exp.so:system/lib/libgsdi_exp.so \
     vendor/huawei/u8185/props/system/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
+    vendor/huawei/u8185/props/system/etc/firmware/ath6k/AR6003/hw2.1.1/athtcmd_ram.bin:system/etc/firmware/ath6k/AR6003/hw2.1.1/athtcmd_ram.bin \
+    vendor/huawei/u8185/props/system/etc/firmware/ath6k/AR6003/hw2.1.1/athwlan.bin:system/etc/firmware/ath6k/AR6003/hw2.1.1/athwlan.bin \
+    vendor/huawei/u8185/props/system/etc/firmware/ath6k/AR6003/hw2.1.1/data.patch.bin:system/etc/firmware/ath6k/AR6003/hw2.1.1/data.patch.bin \
+    vendor/huawei/u8185/props/system/etc/firmware/ath6k/AR6003/hw2.1.1/device.bin:system/etc/firmware/ath6k/AR6003/hw2.1.1/device.bin \
+    vendor/huawei/u8185/props/system/etc/firmware/ath6k/AR6003/hw2.1.1/otp.bin:system/etc/firmware/ath6k/AR6003/hw2.1.1/otp.bin \
     vendor/huawei/u8185/props/system/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
     vendor/huawei/u8185/props/system/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/huawei/u8185/props/system/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
