@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8185/props/system/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/huawei/u8185/props/system/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/huawei/u8185/props/system/lib/libgsl.so:system/lib/libgsl.so \
+    vendor/huawei/u8185/props/system/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/huawei/u8185/props/system/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/huawei/u8185/props/system/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/huawei/u8185/props/system/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
