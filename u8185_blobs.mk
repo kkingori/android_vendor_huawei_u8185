@@ -61,7 +61,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8185/props/system/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/huawei/u8185/props/system/lib/libqmi.so:system/lib/libqmi.so \
     vendor/huawei/u8185/props/system/lib/libwms.so:system/lib/libwms.so \
-    vendor/huawei/u8185/props/system/wifi/ath6k/AR6003/hw2.1.1/caldata.bin:system/wifi/ath6k/AR6003/hw2.1.1/bdata.SD31.bin \
+    vendor/huawei/u8185/props/system/wifi/ath6k/AR6003/hw2.1.1/bdata.SD31.bin:system/wifi/ath6k/AR6003/hw2.1.1/bdata.SD31.bin \
     vendor/huawei/u8185/props/system/wifi/ath6k/AR6003/hw2.1.1/otp.bin:system/wifi/ath6k/AR6003/hw2.1.1/otp.bin \
     vendor/huawei/u8185/props/system/wifi/ath6k/AR6003/hw2.1.1/athwlan.bin:system/wifi/ath6k/AR6003/hw2.1.1/athwlan.bin \
     vendor/huawei/u8185/props/system/wifi/ath6k/AR6003/hw2.1.1/data.patch.hw3_0.bin:system/wifi/ath6k/AR6003/hw2.1.1/data.patch.hw3_0.bin \
